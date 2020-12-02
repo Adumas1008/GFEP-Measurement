@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gfep)(type Legacy)(uri "C:/Projects/Electronics/GFEP Embedded Module/lib_sch/gfep.lib")(options "")(descr ""))
+)

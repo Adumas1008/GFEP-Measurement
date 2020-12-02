@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD623AR
+D Single Supply, Rail to Rail, Instumentation Amplifier, SOIC-8
+K ad623 instumentation amplifier soic-8
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP AD623ARZ
+D Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, SOIC-8
+K ad623 instumentation amplifier soic-8
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP AD623BR
+D Single Supply, Rail to Rail, Instumentation Amplifier, SOIC-8
+K ad623 instumentation amplifier soic-8
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP AD623BRZ
+D Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, SOIC-8
+K ad623 instumentation amplifier soic-8
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+#End Doc Library
